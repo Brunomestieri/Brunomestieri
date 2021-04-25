@@ -11,3 +11,5 @@ Visit me on linkedin: https://www.linkedin.com/in/Brunomestieri/
  Sou usuário linux a programador em HTML, JavaScript, CSS, Python a Java em constante aprendizado.
  
 Visite meu linkedin: https://www.linkedin.com/in/Brunomestieri/
+email: brunomestieri@yahoo.com.br
+Fone: +55 (11) 95119 - 5778
